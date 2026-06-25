@@ -1,0 +1,9 @@
+{
+  "id": "recently-added-obsidian",
+  "name": "Recently Added",
+  "version": "1.0.0",
+  "minAppVersion": "0.16.3",
+  "description": "List files by most recently added to the vault.",
+  "author": "Paul D",
+  "isDesktopOnly": false
+}

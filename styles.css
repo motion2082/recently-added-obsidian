@@ -1,0 +1,17 @@
+.recently-added-file {
+  .tree-item-spacer {
+    flex-grow: 1;
+  }
+}
+
+.recently-added-title {
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.recently-added-age {
+  font-size: 0.75em;
+  color: var(--text-muted);
+  white-space: nowrap;
+  padding: 0 4px;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "recently-added-obsidian",
+  "version": "1.0.0",
+  "description": "List files by most recently added to the vault",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": [],
+  "author": "Paul D",
+  "license": "MIT",
+  "packageManager": "pnpm@10.20.0",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "20.19.39",
+    "esbuild": "0.25.0",
+    "obsidian": "https://github.com/obsidianmd/obsidian-api/archive/23947b58d372ea02225324308e31d36b4aa95869.tar.gz",
+    "tslib": "2.8.1",
+    "typescript": "5.9.3"
+  }
+}
