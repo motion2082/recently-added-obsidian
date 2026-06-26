@@ -33,3 +33,10 @@ Open the panel from the Command Palette (`Ctrl+P`) → **Recently Added: Open**
 | Max files shown | 50 | Maximum number of files to display |
 | Max age (days) | 30 | Only show files created within this many days (0 = no limit) |
 | Omitted path patterns | — | Regex patterns — matching file paths are excluded (one per line) |
+
+## Support
+
+This plugin is free for everyone. If you'd like to support the work:
+
+- [Subscribe on YouTube](https://www.youtube.com/@PaulsObsidianSystems)
+- [Buy me a coffee on Ko-Fi](https://ko-fi.com/manage/mypage)
