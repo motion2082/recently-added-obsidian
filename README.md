@@ -2,7 +2,7 @@
 
 Displays a list of your most recently added files in the left sidebar, sorted by creation time.
 
-![Recently Added sidebar](docs/screenshot-sidebar.png)
+<img width="348" height="415" alt="image" src="https://github.com/user-attachments/assets/c7335c19-6563-4b7a-ab79-62ed1aead080" />
 
 ## Features
 
@@ -24,7 +24,7 @@ Displays a list of your most recently added files in the left sidebar, sorted by
 
 Open the panel from the Command Palette (`Ctrl+P`) → **Recently Added: Open**
 
-![Command Palette](docs/screenshot-command-palette.png)
+<img width="714" height="146" alt="image" src="https://github.com/user-attachments/assets/e92474c9-5b72-4e72-a6d3-020f90e0af99" />
 
 ## Settings
 
