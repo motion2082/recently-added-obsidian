@@ -39,4 +39,4 @@ Open the panel from the Command Palette (`Ctrl+P`) → **Recently Added: Open**
 This plugin is free for everyone. If you'd like to support the work:
 
 - [Subscribe on YouTube](https://www.youtube.com/@PaulsObsidianSystems)
-- [Buy me a coffee on Ko-Fi](https://ko-fi.com/manage/mypage)
+- [Buy me a coffee on Ko-Fi](https://ko-fi.com/motion2082/shop)
